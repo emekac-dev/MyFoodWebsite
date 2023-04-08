@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: red;
+}
+
+
+h1 {
+font-family: "Comic Sans MS";
+font-size: 84px;
+color:aqua;
+}
+
+p {
+
+font-family: Arial;
+
+font-size: 20px;
+
+color: darkslategrey;
+
+}
